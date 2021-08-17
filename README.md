@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Link](/alexfdez1010.github.io/GSOC2021)
+[Link](/alexfdez1010.github.io/web/GSOC2021)
 
 ### Jekyll Themes
 
