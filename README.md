@@ -23,10 +23,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](GSOC21) and ![Image](src)
+ and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+[Link](GSOC21)
 
 ### Jekyll Themes
 
